@@ -1,0 +1,93 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\inetpub\\wwwroot\\ServerTransferAPI\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{68BF1048-D68F-4C8D-A167-5598217EDDFA}|ServerTransferAPI\\ServerTransferAPI.csproj|c:\\inetpub\\wwwroot\\servertransferapi\\servertransferapi\\controllers\\client\\clientcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{68BF1048-D68F-4C8D-A167-5598217EDDFA}|ServerTransferAPI\\ServerTransferAPI.csproj|solutionrelative:servertransferapi\\controllers\\client\\clientcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{68BF1048-D68F-4C8D-A167-5598217EDDFA}|ServerTransferAPI\\ServerTransferAPI.csproj|c:\\inetpub\\wwwroot\\servertransferapi\\servertransferapi\\services\\clientservice\\clientservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{68BF1048-D68F-4C8D-A167-5598217EDDFA}|ServerTransferAPI\\ServerTransferAPI.csproj|solutionrelative:servertransferapi\\services\\clientservice\\clientservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{68BF1048-D68F-4C8D-A167-5598217EDDFA}|ServerTransferAPI\\ServerTransferAPI.csproj|c:\\inetpub\\wwwroot\\servertransferapi\\servertransferapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{68BF1048-D68F-4C8D-A167-5598217EDDFA}|ServerTransferAPI\\ServerTransferAPI.csproj|solutionrelative:servertransferapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 343,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\inetpub\\wwwroot\\ServerTransferAPI\\ServerTransferAPI\\Program.cs",
+              "RelativeDocumentMoniker": "ServerTransferAPI\\Program.cs",
+              "ToolTip": "C:\\inetpub\\wwwroot\\ServerTransferAPI\\ServerTransferAPI\\Program.cs",
+              "RelativeToolTip": "ServerTransferAPI\\Program.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAUwDcAAAAPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-01T11:04:03.357Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ClientService.cs",
+              "DocumentMoniker": "C:\\inetpub\\wwwroot\\ServerTransferAPI\\ServerTransferAPI\\Services\\ClientService\\ClientService.cs",
+              "RelativeDocumentMoniker": "ServerTransferAPI\\Services\\ClientService\\ClientService.cs",
+              "ToolTip": "C:\\inetpub\\wwwroot\\ServerTransferAPI\\ServerTransferAPI\\Services\\ClientService\\ClientService.cs",
+              "RelativeToolTip": "ServerTransferAPI\\Services\\ClientService\\ClientService.cs",
+              "ViewState": "AgIAAAcAAAAAAAAAAAAAwBkAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-01T10:53:26.665Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ClientController.cs",
+              "DocumentMoniker": "C:\\inetpub\\wwwroot\\ServerTransferAPI\\ServerTransferAPI\\Controllers\\Client\\ClientController.cs",
+              "RelativeDocumentMoniker": "ServerTransferAPI\\Controllers\\Client\\ClientController.cs",
+              "ToolTip": "C:\\inetpub\\wwwroot\\ServerTransferAPI\\ServerTransferAPI\\Controllers\\Client\\ClientController.cs*",
+              "RelativeToolTip": "ServerTransferAPI\\Controllers\\Client\\ClientController.cs*",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAxwBcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-01T10:36:04.453Z",
+              "EditorCaption": ""
+            }
+          ]
+        },
+        {
+          "DockedWidth": 343,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{a80febb4-e7e0-4147-b476-21aaf2453969}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

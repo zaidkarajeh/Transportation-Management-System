@@ -1,0 +1,314 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\inetpub\\wwwroot\\ServerTransferAPI\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{68BF1048-D68F-4C8D-A167-5598217EDDFA}|ServerTransferAPI\\ServerTransferAPI.csproj|c:\\inetpub\\wwwroot\\servertransferapi\\servertransferapi\\services\\subscriptionservice\\subscriptionservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{68BF1048-D68F-4C8D-A167-5598217EDDFA}|ServerTransferAPI\\ServerTransferAPI.csproj|solutionrelative:servertransferapi\\services\\subscriptionservice\\subscriptionservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{68BF1048-D68F-4C8D-A167-5598217EDDFA}|ServerTransferAPI\\ServerTransferAPI.csproj|c:\\inetpub\\wwwroot\\servertransferapi\\servertransferapi\\services\\subscriptionservice\\isubscriptionservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{68BF1048-D68F-4C8D-A167-5598217EDDFA}|ServerTransferAPI\\ServerTransferAPI.csproj|solutionrelative:servertransferapi\\services\\subscriptionservice\\isubscriptionservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{68BF1048-D68F-4C8D-A167-5598217EDDFA}|ServerTransferAPI\\ServerTransferAPI.csproj|c:\\inetpub\\wwwroot\\servertransferapi\\servertransferapi\\services\\instantorderservice\\instantorderservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{68BF1048-D68F-4C8D-A167-5598217EDDFA}|ServerTransferAPI\\ServerTransferAPI.csproj|solutionrelative:servertransferapi\\services\\instantorderservice\\instantorderservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{68BF1048-D68F-4C8D-A167-5598217EDDFA}|ServerTransferAPI\\ServerTransferAPI.csproj|c:\\inetpub\\wwwroot\\servertransferapi\\servertransferapi\\services\\instantorderservice\\iinstantorderservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{68BF1048-D68F-4C8D-A167-5598217EDDFA}|ServerTransferAPI\\ServerTransferAPI.csproj|solutionrelative:servertransferapi\\services\\instantorderservice\\iinstantorderservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{68BF1048-D68F-4C8D-A167-5598217EDDFA}|ServerTransferAPI\\ServerTransferAPI.csproj|c:\\inetpub\\wwwroot\\servertransferapi\\servertransferapi\\services\\driverservice\\idriverservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{68BF1048-D68F-4C8D-A167-5598217EDDFA}|ServerTransferAPI\\ServerTransferAPI.csproj|solutionrelative:servertransferapi\\services\\driverservice\\idriverservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{68BF1048-D68F-4C8D-A167-5598217EDDFA}|ServerTransferAPI\\ServerTransferAPI.csproj|c:\\inetpub\\wwwroot\\servertransferapi\\servertransferapi\\services\\driverservice\\driverservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{68BF1048-D68F-4C8D-A167-5598217EDDFA}|ServerTransferAPI\\ServerTransferAPI.csproj|solutionrelative:servertransferapi\\services\\driverservice\\driverservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{68BF1048-D68F-4C8D-A167-5598217EDDFA}|ServerTransferAPI\\ServerTransferAPI.csproj|c:\\inetpub\\wwwroot\\servertransferapi\\servertransferapi\\services\\driverpaymentservice\\idriverpaymentservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{68BF1048-D68F-4C8D-A167-5598217EDDFA}|ServerTransferAPI\\ServerTransferAPI.csproj|solutionrelative:servertransferapi\\services\\driverpaymentservice\\idriverpaymentservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{68BF1048-D68F-4C8D-A167-5598217EDDFA}|ServerTransferAPI\\ServerTransferAPI.csproj|c:\\inetpub\\wwwroot\\servertransferapi\\servertransferapi\\services\\driverpaymentservice\\driverpaymentservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{68BF1048-D68F-4C8D-A167-5598217EDDFA}|ServerTransferAPI\\ServerTransferAPI.csproj|solutionrelative:servertransferapi\\services\\driverpaymentservice\\driverpaymentservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{68BF1048-D68F-4C8D-A167-5598217EDDFA}|ServerTransferAPI\\ServerTransferAPI.csproj|c:\\inetpub\\wwwroot\\servertransferapi\\servertransferapi\\services\\clientservice\\iclientservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{68BF1048-D68F-4C8D-A167-5598217EDDFA}|ServerTransferAPI\\ServerTransferAPI.csproj|solutionrelative:servertransferapi\\services\\clientservice\\iclientservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{68BF1048-D68F-4C8D-A167-5598217EDDFA}|ServerTransferAPI\\ServerTransferAPI.csproj|c:\\inetpub\\wwwroot\\servertransferapi\\servertransferapi\\services\\clientservice\\clientservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{68BF1048-D68F-4C8D-A167-5598217EDDFA}|ServerTransferAPI\\ServerTransferAPI.csproj|solutionrelative:servertransferapi\\services\\clientservice\\clientservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{68BF1048-D68F-4C8D-A167-5598217EDDFA}|ServerTransferAPI\\ServerTransferAPI.csproj|c:\\inetpub\\wwwroot\\servertransferapi\\servertransferapi\\services\\appsettingservice\\iappsettingservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{68BF1048-D68F-4C8D-A167-5598217EDDFA}|ServerTransferAPI\\ServerTransferAPI.csproj|solutionrelative:servertransferapi\\services\\appsettingservice\\iappsettingservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{68BF1048-D68F-4C8D-A167-5598217EDDFA}|ServerTransferAPI\\ServerTransferAPI.csproj|c:\\inetpub\\wwwroot\\servertransferapi\\servertransferapi\\services\\appsettingservice\\appsettingservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{68BF1048-D68F-4C8D-A167-5598217EDDFA}|ServerTransferAPI\\ServerTransferAPI.csproj|solutionrelative:servertransferapi\\services\\appsettingservice\\appsettingservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{68BF1048-D68F-4C8D-A167-5598217EDDFA}|ServerTransferAPI\\ServerTransferAPI.csproj|c:\\inetpub\\wwwroot\\servertransferapi\\servertransferapi\\services\\accountservices\\iaccountservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{68BF1048-D68F-4C8D-A167-5598217EDDFA}|ServerTransferAPI\\ServerTransferAPI.csproj|solutionrelative:servertransferapi\\services\\accountservices\\iaccountservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{68BF1048-D68F-4C8D-A167-5598217EDDFA}|ServerTransferAPI\\ServerTransferAPI.csproj|c:\\inetpub\\wwwroot\\servertransferapi\\servertransferapi\\services\\accountservices\\accountservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{68BF1048-D68F-4C8D-A167-5598217EDDFA}|ServerTransferAPI\\ServerTransferAPI.csproj|solutionrelative:servertransferapi\\services\\accountservices\\accountservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{68BF1048-D68F-4C8D-A167-5598217EDDFA}|ServerTransferAPI\\ServerTransferAPI.csproj|c:\\inetpub\\wwwroot\\servertransferapi\\servertransferapi\\controllers\\reports\\reportscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{68BF1048-D68F-4C8D-A167-5598217EDDFA}|ServerTransferAPI\\ServerTransferAPI.csproj|solutionrelative:servertransferapi\\controllers\\reports\\reportscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{68BF1048-D68F-4C8D-A167-5598217EDDFA}|ServerTransferAPI\\ServerTransferAPI.csproj|c:\\inetpub\\wwwroot\\servertransferapi\\servertransferapi\\controllers\\instantorder\\instantordercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{68BF1048-D68F-4C8D-A167-5598217EDDFA}|ServerTransferAPI\\ServerTransferAPI.csproj|solutionrelative:servertransferapi\\controllers\\instantorder\\instantordercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 343,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "SubscriptionService.cs",
+              "DocumentMoniker": "C:\\inetpub\\wwwroot\\ServerTransferAPI\\ServerTransferAPI\\Services\\SubscriptionService\\SubscriptionService.cs",
+              "RelativeDocumentMoniker": "ServerTransferAPI\\Services\\SubscriptionService\\SubscriptionService.cs",
+              "ToolTip": "C:\\inetpub\\wwwroot\\ServerTransferAPI\\ServerTransferAPI\\Services\\SubscriptionService\\SubscriptionService.cs",
+              "RelativeToolTip": "ServerTransferAPI\\Services\\SubscriptionService\\SubscriptionService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-03T09:55:34.552Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ISubscriptionService.cs",
+              "DocumentMoniker": "C:\\inetpub\\wwwroot\\ServerTransferAPI\\ServerTransferAPI\\Services\\SubscriptionService\\ISubscriptionService.cs",
+              "RelativeDocumentMoniker": "ServerTransferAPI\\Services\\SubscriptionService\\ISubscriptionService.cs",
+              "ToolTip": "C:\\inetpub\\wwwroot\\ServerTransferAPI\\ServerTransferAPI\\Services\\SubscriptionService\\ISubscriptionService.cs",
+              "RelativeToolTip": "ServerTransferAPI\\Services\\SubscriptionService\\ISubscriptionService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-03T09:55:35.097Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "InstantOrderService.cs",
+              "DocumentMoniker": "C:\\inetpub\\wwwroot\\ServerTransferAPI\\ServerTransferAPI\\Services\\InstantOrderService\\InstantOrderService.cs",
+              "RelativeDocumentMoniker": "ServerTransferAPI\\Services\\InstantOrderService\\InstantOrderService.cs",
+              "ToolTip": "C:\\inetpub\\wwwroot\\ServerTransferAPI\\ServerTransferAPI\\Services\\InstantOrderService\\InstantOrderService.cs",
+              "RelativeToolTip": "ServerTransferAPI\\Services\\InstantOrderService\\InstantOrderService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-03T09:55:32.025Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "IInstantOrderService.cs",
+              "DocumentMoniker": "C:\\inetpub\\wwwroot\\ServerTransferAPI\\ServerTransferAPI\\Services\\InstantOrderService\\IInstantOrderService.cs",
+              "RelativeDocumentMoniker": "ServerTransferAPI\\Services\\InstantOrderService\\IInstantOrderService.cs",
+              "ToolTip": "C:\\inetpub\\wwwroot\\ServerTransferAPI\\ServerTransferAPI\\Services\\InstantOrderService\\IInstantOrderService.cs",
+              "RelativeToolTip": "ServerTransferAPI\\Services\\InstantOrderService\\IInstantOrderService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-03T09:55:30.327Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "IDriverService.cs",
+              "DocumentMoniker": "C:\\inetpub\\wwwroot\\ServerTransferAPI\\ServerTransferAPI\\Services\\DriverService\\IDriverService.cs",
+              "RelativeDocumentMoniker": "ServerTransferAPI\\Services\\DriverService\\IDriverService.cs",
+              "ToolTip": "C:\\inetpub\\wwwroot\\ServerTransferAPI\\ServerTransferAPI\\Services\\DriverService\\IDriverService.cs",
+              "RelativeToolTip": "ServerTransferAPI\\Services\\DriverService\\IDriverService.cs",
+              "ViewState": "AgIAAA4AAAAAAAAAAAAgwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-03T09:55:26.917Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "DriverService.cs",
+              "DocumentMoniker": "C:\\inetpub\\wwwroot\\ServerTransferAPI\\ServerTransferAPI\\Services\\DriverService\\DriverService.cs",
+              "RelativeDocumentMoniker": "ServerTransferAPI\\Services\\DriverService\\DriverService.cs",
+              "ToolTip": "C:\\inetpub\\wwwroot\\ServerTransferAPI\\ServerTransferAPI\\Services\\DriverService\\DriverService.cs",
+              "RelativeToolTip": "ServerTransferAPI\\Services\\DriverService\\DriverService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-03T09:55:25.012Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "IDriverPaymentService.cs",
+              "DocumentMoniker": "C:\\inetpub\\wwwroot\\ServerTransferAPI\\ServerTransferAPI\\Services\\DriverPaymentService\\IDriverPaymentService.cs",
+              "RelativeDocumentMoniker": "ServerTransferAPI\\Services\\DriverPaymentService\\IDriverPaymentService.cs",
+              "ToolTip": "C:\\inetpub\\wwwroot\\ServerTransferAPI\\ServerTransferAPI\\Services\\DriverPaymentService\\IDriverPaymentService.cs",
+              "RelativeToolTip": "ServerTransferAPI\\Services\\DriverPaymentService\\IDriverPaymentService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-03T09:55:20.609Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "DriverPaymentService.cs",
+              "DocumentMoniker": "C:\\inetpub\\wwwroot\\ServerTransferAPI\\ServerTransferAPI\\Services\\DriverPaymentService\\DriverPaymentService.cs",
+              "RelativeDocumentMoniker": "ServerTransferAPI\\Services\\DriverPaymentService\\DriverPaymentService.cs",
+              "ToolTip": "C:\\inetpub\\wwwroot\\ServerTransferAPI\\ServerTransferAPI\\Services\\DriverPaymentService\\DriverPaymentService.cs",
+              "RelativeToolTip": "ServerTransferAPI\\Services\\DriverPaymentService\\DriverPaymentService.cs",
+              "ViewState": "AgIAAF0AAAAAAAAAAAAowFsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-03T09:55:06.028Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "IClientService.cs",
+              "DocumentMoniker": "C:\\inetpub\\wwwroot\\ServerTransferAPI\\ServerTransferAPI\\Services\\ClientService\\IClientService.cs",
+              "RelativeDocumentMoniker": "ServerTransferAPI\\Services\\ClientService\\IClientService.cs",
+              "ToolTip": "C:\\inetpub\\wwwroot\\ServerTransferAPI\\ServerTransferAPI\\Services\\ClientService\\IClientService.cs",
+              "RelativeToolTip": "ServerTransferAPI\\Services\\ClientService\\IClientService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-03T09:55:04.36Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "ClientService.cs",
+              "DocumentMoniker": "C:\\inetpub\\wwwroot\\ServerTransferAPI\\ServerTransferAPI\\Services\\ClientService\\ClientService.cs",
+              "RelativeDocumentMoniker": "ServerTransferAPI\\Services\\ClientService\\ClientService.cs",
+              "ToolTip": "C:\\inetpub\\wwwroot\\ServerTransferAPI\\ServerTransferAPI\\Services\\ClientService\\ClientService.cs",
+              "RelativeToolTip": "ServerTransferAPI\\Services\\ClientService\\ClientService.cs",
+              "ViewState": "AgIAAEMAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-03T09:55:00.321Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "IAppSettingService.cs",
+              "DocumentMoniker": "C:\\inetpub\\wwwroot\\ServerTransferAPI\\ServerTransferAPI\\Services\\AppSettingService\\IAppSettingService.cs",
+              "RelativeDocumentMoniker": "ServerTransferAPI\\Services\\AppSettingService\\IAppSettingService.cs",
+              "ToolTip": "C:\\inetpub\\wwwroot\\ServerTransferAPI\\ServerTransferAPI\\Services\\AppSettingService\\IAppSettingService.cs",
+              "RelativeToolTip": "ServerTransferAPI\\Services\\AppSettingService\\IAppSettingService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-03T09:54:57.137Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "AppSettingService.cs",
+              "DocumentMoniker": "C:\\inetpub\\wwwroot\\ServerTransferAPI\\ServerTransferAPI\\Services\\AppSettingService\\AppSettingService.cs",
+              "RelativeDocumentMoniker": "ServerTransferAPI\\Services\\AppSettingService\\AppSettingService.cs",
+              "ToolTip": "C:\\inetpub\\wwwroot\\ServerTransferAPI\\ServerTransferAPI\\Services\\AppSettingService\\AppSettingService.cs",
+              "RelativeToolTip": "ServerTransferAPI\\Services\\AppSettingService\\AppSettingService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACsAAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-03T09:54:39.044Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "IAccountServices.cs",
+              "DocumentMoniker": "C:\\inetpub\\wwwroot\\ServerTransferAPI\\ServerTransferAPI\\Services\\AccountServices\\IAccountServices.cs",
+              "RelativeDocumentMoniker": "ServerTransferAPI\\Services\\AccountServices\\IAccountServices.cs",
+              "ToolTip": "C:\\inetpub\\wwwroot\\ServerTransferAPI\\ServerTransferAPI\\Services\\AccountServices\\IAccountServices.cs",
+              "RelativeToolTip": "ServerTransferAPI\\Services\\AccountServices\\IAccountServices.cs",
+              "ViewState": "AgIAAAwAAAAAAAAAAAA7wAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-03T09:54:34.882Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "AccountServices.cs",
+              "DocumentMoniker": "C:\\inetpub\\wwwroot\\ServerTransferAPI\\ServerTransferAPI\\Services\\AccountServices\\AccountServices.cs",
+              "RelativeDocumentMoniker": "ServerTransferAPI\\Services\\AccountServices\\AccountServices.cs",
+              "ToolTip": "C:\\inetpub\\wwwroot\\ServerTransferAPI\\ServerTransferAPI\\Services\\AccountServices\\AccountServices.cs",
+              "RelativeToolTip": "ServerTransferAPI\\Services\\AccountServices\\AccountServices.cs",
+              "ViewState": "AgIAAGgAAAAAAAAAAAAUwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-03T09:54:28.266Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "ReportsController.cs",
+              "DocumentMoniker": "C:\\inetpub\\wwwroot\\ServerTransferAPI\\ServerTransferAPI\\Controllers\\Reports\\ReportsController.cs",
+              "RelativeDocumentMoniker": "ServerTransferAPI\\Controllers\\Reports\\ReportsController.cs",
+              "ToolTip": "C:\\inetpub\\wwwroot\\ServerTransferAPI\\ServerTransferAPI\\Controllers\\Reports\\ReportsController.cs",
+              "RelativeToolTip": "ServerTransferAPI\\Controllers\\Reports\\ReportsController.cs",
+              "ViewState": "AgIAACQBAAAAAAAAAAAQwO8AAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-01T12:27:06.514Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "InstantOrderController.cs",
+              "DocumentMoniker": "C:\\inetpub\\wwwroot\\ServerTransferAPI\\ServerTransferAPI\\Controllers\\InstantOrder\\InstantOrderController.cs",
+              "RelativeDocumentMoniker": "ServerTransferAPI\\Controllers\\InstantOrder\\InstantOrderController.cs",
+              "ToolTip": "C:\\inetpub\\wwwroot\\ServerTransferAPI\\ServerTransferAPI\\Controllers\\InstantOrder\\InstantOrderController.cs",
+              "RelativeToolTip": "ServerTransferAPI\\Controllers\\InstantOrder\\InstantOrderController.cs",
+              "ViewState": "AgIAAFEAAAAAAAAAAAAowFYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-01T12:26:10.355Z",
+              "EditorCaption": ""
+            }
+          ]
+        },
+        {
+          "DockedWidth": 343,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{a80febb4-e7e0-4147-b476-21aaf2453969}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
